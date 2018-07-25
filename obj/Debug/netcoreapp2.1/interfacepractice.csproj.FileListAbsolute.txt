@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Documents\Revature\interfacepractice\bin\Debug\netcoreapp2.1\interfacepractice.deps.json
+C:\Users\Jonathan\Documents\Revature\interfacepractice\bin\Debug\netcoreapp2.1\interfacepractice.runtimeconfig.json
+C:\Users\Jonathan\Documents\Revature\interfacepractice\bin\Debug\netcoreapp2.1\interfacepractice.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\Revature\interfacepractice\bin\Debug\netcoreapp2.1\interfacepractice.dll
+C:\Users\Jonathan\Documents\Revature\interfacepractice\bin\Debug\netcoreapp2.1\interfacepractice.pdb
+C:\Users\Jonathan\Documents\Revature\interfacepractice\obj\Debug\netcoreapp2.1\interfacepractice.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\Revature\interfacepractice\obj\Debug\netcoreapp2.1\interfacepractice.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Revature\interfacepractice\obj\Debug\netcoreapp2.1\interfacepractice.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Revature\interfacepractice\obj\Debug\netcoreapp2.1\interfacepractice.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Revature\interfacepractice\obj\Debug\netcoreapp2.1\interfacepractice.dll
+C:\Users\Jonathan\Documents\Revature\interfacepractice\obj\Debug\netcoreapp2.1\interfacepractice.pdb
